@@ -4,6 +4,24 @@
   </a>
 </h1>
 
+
+
+<h1 align="center">
+  <a href="https://github.com/disciplined-pioneer">
+    <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=22&width=500&speed=1000&lines=I+am+Maksim+Sharshov+-+Python+Developer" alt="Typing Animation">
+  </a>
+</h1>
+
+
+<h1 align="center">
+  <a href="https://github.com/disciplined-pioneer">
+    <img src="https://readme-typing-svg.herokuapp.com?color=000000&background=FFFFFF&size=22&width=500&speed=1000&lines=I+am+Maksim+Sharshov+-+Python+Developer" alt="Typing Animation">
+  </a>
+</h1>
+
+
+
+
 ---
 
 # About Me
